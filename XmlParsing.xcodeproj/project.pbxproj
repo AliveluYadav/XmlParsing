@@ -14,6 +14,7 @@
 		D4B6338D208A09B100FF7ECE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4B6338B208A09B100FF7ECE /* LaunchScreen.storyboard */; };
 		D4B63398208A09B100FF7ECE /* XmlParsingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B63397208A09B100FF7ECE /* XmlParsingTests.swift */; };
 		D4B633A3208A09B100FF7ECE /* XmlParsingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4B633A2208A09B100FF7ECE /* XmlParsingUITests.swift */; };
+		D4B633B1208A0A2700FF7ECE /* Actors.xml in Resources */ = {isa = PBXBuildFile; fileRef = D4B633B0208A0A2700FF7ECE /* Actors.xml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D4B6339E208A09B100FF7ECE /* XmlParsingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XmlParsingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4B633A2208A09B100FF7ECE /* XmlParsingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XmlParsingUITests.swift; sourceTree = "<group>"; };
 		D4B633A4208A09B200FF7ECE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4B633B0208A0A2700FF7ECE /* Actors.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Actors.xml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		D4B63376208A09B100FF7ECE = {
 			isa = PBXGroup;
 			children = (
+				D4B633B0208A0A2700FF7ECE /* Actors.xml */,
 				D4B63381208A09B100FF7ECE /* XmlParsing */,
 				D4B63396208A09B100FF7ECE /* XmlParsingTests */,
 				D4B633A1208A09B100FF7ECE /* XmlParsingUITests */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D4B6338D208A09B100FF7ECE /* LaunchScreen.storyboard in Resources */,
+				D4B633B1208A0A2700FF7ECE /* Actors.xml in Resources */,
 				D4B6338A208A09B100FF7ECE /* Assets.xcassets in Resources */,
 				D4B63388208A09B100FF7ECE /* Main.storyboard in Resources */,
 			);

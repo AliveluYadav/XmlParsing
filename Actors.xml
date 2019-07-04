@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Actors>
+  <TollyWood>
+         <name>Chiranjivi</name>
+         <name>Venkatesh</name>
+         <name>Nagarjuna</name>
+         <name>Balayya</name>
+         <name>MohanBabu</name>
+  </TollyWood>
+  
+    <BollyWood>
+        <name>AkshayKumar</name>
+        <name>SalmanKhan</name>
+        <name>Sharuk Khan</name>
+        <name>Hruthik </name>
+        <name>Amitha Bachan</name>
+    </BollyWood>
+
+</Actors>
